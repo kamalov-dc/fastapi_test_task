@@ -6,6 +6,7 @@ docker-compose build
 docker-compose up -d
 ```
 Убедитесь, что на машине запущен docker и свобеден порт 6379 (для redis)
+Проверить можно в postman
 
 2) ответ на задачу SQL
 ```
